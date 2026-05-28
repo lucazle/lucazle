@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animação de digitação -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Souza+%F0%9F%91%8B;To+infinity+and+beyond+%F0%9F%9A%80;Estudante+de+TI+no+IFPE;Apaixonado+por+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Souza+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
